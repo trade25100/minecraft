@@ -19,3 +19,7 @@ Application web statique en français, sans serveur et utilisable gratuitement s
 
 ## Important
 Les données sont enregistrées dans le navigateur et ne se synchronisent pas entre appareils. Utiliser **Exporter JSON** régulièrement pour les sauvegarder. Les images intégrées peuvent grossir fortement le stockage local et le fichier JSON. La checklist est une liste de base personnalisable dans le code JavaScript.
+
+## Modifier les quantités
+
+Dans chaque coffre, utilise **+** pour ajouter un objet, **−** pour en retirer un et **✏️** pour saisir directement une quantité. Mettre la quantité à zéro supprime l’objet du coffre. Les totaux, la recherche et la checklist se mettent à jour automatiquement.
