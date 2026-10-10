@@ -23,3 +23,6 @@ Les données sont enregistrées dans le navigateur et ne se synchronisent pas en
 ## Modifier les quantités
 
 Dans chaque coffre, utilise **+** pour ajouter un objet, **−** pour en retirer un et **✏️** pour saisir directement une quantité. Mettre la quantité à zéro supprime l’objet du coffre. Les totaux, la recherche et la checklist se mettent à jour automatiquement.
+
+## Ajout d'objets
+Dans chaque coffre, sélectionner un des 35 objets, choisir une quantité de 1 à 64, puis cliquer sur Ajouter l’objet. Un objet déjà présent est incrémenté. Les boutons −, + et ✏️ restent disponibles.
